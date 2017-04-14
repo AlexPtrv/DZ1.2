@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22fa2d01-fa3b-467b-adfd-548bf34a491b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/GoIT/dzsecond.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/dzsecond.java" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/GoIT/Go.class" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/src/Go.java" afterPath="" />
@@ -599,7 +600,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15060000" />
+    <option name="totallyTimeSpent" value="15229000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
