@@ -16,11 +16,5 @@ System.out.println("Enter number 1:");
         System.out.println("Initial array:"+mas[1]+","+mas[2]+","+mas[3]+","+mas[4]+","+mas[5]);
         System.out.print("Sorted array:");
         Arrays.sort(mas);
-        for(int i = 1; i < mas.length; i++)
-        {
-
-        System.out.print(mas[i]+",");
-        //Одна толко проблема незнаю как убрать и заменить последнию кому на точку(ничего в голову не приходит)=)
-        }
-
+        System.out.print(mas[1]+","+mas[2]+","+mas[3]+","+mas[4]+","+mas[5]+".");
         }}
